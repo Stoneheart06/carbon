@@ -1,0 +1,72 @@
+builtYearGroup	engineType	fuelType	baseSFC
+1	SSD	HFO	205
+1	SSD	MDO	190
+1	SSD	MeOH	N/A
+1	MSD	HFO	215
+1	MSD	MDO	200
+1	MSD	MeOH	N/A
+1	HSD	HFO	225
+1	HSD	MDO	210
+1	"LNG-Otto
+(dual-fuel, medium-speed)"	LNG	N/A
+1	"LNG-Otto
+(dual-fuel, slow-speed)"	LNG	N/A
+1	LNG-Diesel (dual-fuel)	LNG	N/A
+1	LBSI	LNG	N/A
+1	Gas Turbines	HFO	305
+1	Gas Turbines	MDO	300
+1	Gas Turbines	LNG	N/A
+1	Steam Turbines (and boilers)	HFO	340
+1	Steam Turbines (and boilers)	MDO	320
+1	Steam Turbines (and boilers)	LNG	285
+1	Auxiliary engines	HFO	225
+1	Auxiliary engines	MDO	210
+1	Auxiliary engines	LNG	N/A
+2	SSD	HFO	185
+2	SSD	MDO	175
+2	SSD	MeOH	N/A
+2	MSD	HFO	195
+2	MSD	MDO	185
+2	MSD	MeOH	N/A
+2	HSD	HFO	205
+2	HSD	MDO	190
+2	"LNG-Otto
+(dual-fuel, medium-speed)"	LNG	173
+2	"LNG-Otto
+(dual-fuel, slow-speed)"	LNG	N/A
+2	LNG-Diesel (dual-fuel)	LNG	N/A
+2	LBSI	LNG	156
+2	Gas Turbines	HFO	305
+2	Gas Turbines	MDO	300
+2	Gas Turbines	LNG	N/A
+2	Steam Turbines (and boilers)	HFO	340
+2	Steam Turbines (and boilers)	MDO	320
+2	Steam Turbines (and boilers)	LNG	285
+2	Auxiliary engines	HFO	205
+2	Auxiliary engines	MDO	190
+2	Auxiliary engines	LNG	173
+3	SSD	HFO	175
+3	SSD	MDO	165
+3	SSD	MeOH	350
+3	MSD	HFO	185
+3	MSD	MDO	175
+3	MSD	MeOH	370
+3	HSD	HFO	195
+3	HSD	MDO	185
+3	"LNG-Otto
+(dual-fuel, medium-speed)"	LNG	156
+3	"LNG-Otto
+(dual-fuel, slow-speed)"	LNG	"148 LNG +
+0.8 MDO (pilot)"
+3	LNG-Diesel (dual-fuel)	LNG	"135 LNG +
+6.0 MDO (pilot)"
+3	LBSI	LNG	156
+3	Gas Turbines	HFO	305
+3	Gas Turbines	MDO	300
+3	Gas Turbines	LNG	203
+3	Steam Turbines (and boilers)	HFO	340
+3	Steam Turbines (and boilers)	MDO	320
+3	Steam Turbines (and boilers)	LNG	285
+3	Auxiliary engines	HFO	195
+3	Auxiliary engines	MDO	185
+3	Auxiliary engines	LNG	156
